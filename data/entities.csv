@@ -1,0 +1,1001 @@
+id,title,genre
+1,title 1,thriller|drama|romance
+2,title 2,fantasy
+3,title 3,musical
+4,title 4,horror
+5,title 5,action|thriller|western
+6,title 6,drama|mystery
+7,title 7,fantasy
+8,title 8,action
+9,title 9,drama|action|fantasy
+10,title 10,horror|musical|action
+11,title 11,fantasy|sports
+12,title 12,romance|drama|comedy
+13,title 13,adventure|science fiction|romance
+14,title 14,fantasy
+15,title 15,thriller|mystery
+16,title 16,thriller|science fiction
+17,title 17,western|romance
+18,title 18,musical
+19,title 19,action|thriller
+20,title 20,thriller|action
+21,title 21,horror|western
+22,title 22,western|fantasy
+23,title 23,thriller|drama|horror
+24,title 24,mystery
+25,title 25,thriller|fantasy
+26,title 26,adventure
+27,title 27,sports|horror
+28,title 28,comedy|science fiction
+29,title 29,fantasy|horror
+30,title 30,musical|horror
+31,title 31,thriller|western|horror
+32,title 32,action
+33,title 33,fantasy|comedy|sports
+34,title 34,romance|horror
+35,title 35,action|fantasy|horror
+36,title 36,mystery|drama
+37,title 37,drama
+38,title 38,adventure|romance
+39,title 39,fantasy
+40,title 40,musical|science fiction|fantasy
+41,title 41,sports|adventure|horror
+42,title 42,comedy|romance
+43,title 43,fantasy
+44,title 44,action|mystery|romance
+45,title 45,western|adventure|mystery
+46,title 46,science fiction|fantasy
+47,title 47,action
+48,title 48,thriller|drama
+49,title 49,comedy
+50,title 50,comedy|horror|adventure
+51,title 51,thriller|adventure|musical
+52,title 52,sports|action|romance
+53,title 53,drama|horror|thriller
+54,title 54,action|romance|horror
+55,title 55,thriller|romance
+56,title 56,comedy|sports
+57,title 57,musical
+58,title 58,romance|action|comedy
+59,title 59,thriller|horror|romance
+60,title 60,action|western|fantasy
+61,title 61,science fiction
+62,title 62,action
+63,title 63,drama|western|science fiction
+64,title 64,drama|thriller
+65,title 65,mystery|romance
+66,title 66,drama
+67,title 67,western
+68,title 68,thriller
+69,title 69,sports|thriller|action
+70,title 70,comedy
+71,title 71,sports|action|comedy
+72,title 72,action|western
+73,title 73,fantasy|action
+74,title 74,musical|fantasy|romance
+75,title 75,horror|mystery
+76,title 76,sports|action
+77,title 77,thriller|fantasy
+78,title 78,thriller
+79,title 79,drama|western
+80,title 80,fantasy|western|mystery
+81,title 81,thriller
+82,title 82,horror|drama|fantasy
+83,title 83,drama
+84,title 84,thriller|action
+85,title 85,romance
+86,title 86,sports|fantasy|action
+87,title 87,musical
+88,title 88,western|sports|fantasy
+89,title 89,mystery|adventure
+90,title 90,thriller
+91,title 91,horror
+92,title 92,science fiction|adventure
+93,title 93,sports|musical
+94,title 94,horror
+95,title 95,horror|thriller|drama
+96,title 96,musical|science fiction
+97,title 97,fantasy
+98,title 98,fantasy
+99,title 99,sports|comedy|adventure
+100,title 100,romance
+101,title 101,fantasy|thriller
+102,title 102,mystery|action
+103,title 103,drama
+104,title 104,action|drama|thriller
+105,title 105,comedy
+106,title 106,sports|mystery
+107,title 107,adventure
+108,title 108,comedy
+109,title 109,drama|adventure
+110,title 110,mystery|sports
+111,title 111,adventure|musical
+112,title 112,mystery|action|horror
+113,title 113,sports|comedy|fantasy
+114,title 114,fantasy|drama
+115,title 115,musical|action|drama
+116,title 116,science fiction|drama|musical
+117,title 117,sports|action|musical
+118,title 118,drama
+119,title 119,thriller|comedy|mystery
+120,title 120,thriller|horror|fantasy
+121,title 121,thriller|western
+122,title 122,western
+123,title 123,drama|western|thriller
+124,title 124,horror|western
+125,title 125,action|science fiction|romance
+126,title 126,horror
+127,title 127,science fiction|fantasy|romance
+128,title 128,comedy|horror
+129,title 129,romance|sports|science fiction
+130,title 130,drama
+131,title 131,western|mystery
+132,title 132,thriller
+133,title 133,fantasy|action|romance
+134,title 134,science fiction
+135,title 135,fantasy
+136,title 136,romance|comedy
+137,title 137,action|musical
+138,title 138,western|horror
+139,title 139,drama|horror|action
+140,title 140,horror|thriller
+141,title 141,romance
+142,title 142,thriller
+143,title 143,action|comedy|romance
+144,title 144,western|fantasy
+145,title 145,science fiction|fantasy|horror
+146,title 146,romance|action|sports
+147,title 147,drama|thriller
+148,title 148,adventure|romance|drama
+149,title 149,science fiction
+150,title 150,horror
+151,title 151,comedy|musical
+152,title 152,action|musical
+153,title 153,action|drama
+154,title 154,thriller
+155,title 155,comedy|action|drama
+156,title 156,western|action
+157,title 157,adventure
+158,title 158,drama
+159,title 159,science fiction|drama
+160,title 160,fantasy|horror
+161,title 161,horror
+162,title 162,science fiction
+163,title 163,adventure|western|comedy
+164,title 164,comedy
+165,title 165,adventure
+166,title 166,comedy
+167,title 167,science fiction|adventure|horror
+168,title 168,mystery|fantasy|romance
+169,title 169,mystery
+170,title 170,thriller|adventure|drama
+171,title 171,fantasy|mystery
+172,title 172,science fiction|romance
+173,title 173,fantasy
+174,title 174,horror
+175,title 175,adventure
+176,title 176,romance|thriller
+177,title 177,science fiction|horror
+178,title 178,adventure|horror|action
+179,title 179,drama|thriller
+180,title 180,comedy|western
+181,title 181,drama|thriller
+182,title 182,adventure|science fiction|musical
+183,title 183,western|action
+184,title 184,adventure
+185,title 185,fantasy|romance|drama
+186,title 186,adventure|drama|action
+187,title 187,horror|musical|mystery
+188,title 188,science fiction
+189,title 189,thriller|horror
+190,title 190,western|science fiction
+191,title 191,thriller|musical|romance
+192,title 192,romance|horror|adventure
+193,title 193,adventure|musical
+194,title 194,action|comedy
+195,title 195,adventure
+196,title 196,adventure|horror|comedy
+197,title 197,western|romance|adventure
+198,title 198,drama|romance|musical
+199,title 199,adventure
+200,title 200,western|horror|science fiction
+201,title 201,sports|mystery
+202,title 202,fantasy|action|sports
+203,title 203,comedy|horror|thriller
+204,title 204,action|horror
+205,title 205,western|science fiction|thriller
+206,title 206,horror
+207,title 207,fantasy|mystery
+208,title 208,drama
+209,title 209,fantasy
+210,title 210,western|thriller
+211,title 211,adventure|horror
+212,title 212,fantasy|musical|adventure
+213,title 213,adventure|fantasy
+214,title 214,horror
+215,title 215,drama|thriller|adventure
+216,title 216,comedy
+217,title 217,action|sports|drama
+218,title 218,fantasy|thriller|sports
+219,title 219,mystery
+220,title 220,horror|action
+221,title 221,western|science fiction|sports
+222,title 222,musical|action|adventure
+223,title 223,sports|comedy|mystery
+224,title 224,romance|fantasy
+225,title 225,romance|action|sports
+226,title 226,fantasy|romance|sports
+227,title 227,musical
+228,title 228,fantasy|romance
+229,title 229,science fiction|action
+230,title 230,comedy
+231,title 231,fantasy
+232,title 232,musical|comedy
+233,title 233,fantasy|thriller|adventure
+234,title 234,science fiction|action
+235,title 235,adventure|drama
+236,title 236,adventure
+237,title 237,mystery|western
+238,title 238,drama|western|adventure
+239,title 239,drama|science fiction
+240,title 240,mystery|adventure
+241,title 241,action|musical
+242,title 242,action|western|fantasy
+243,title 243,fantasy|romance
+244,title 244,sports|drama
+245,title 245,science fiction|horror
+246,title 246,mystery|adventure|comedy
+247,title 247,comedy|western
+248,title 248,drama|adventure|western
+249,title 249,horror|drama|thriller
+250,title 250,adventure|comedy|sports
+251,title 251,drama
+252,title 252,adventure|science fiction
+253,title 253,sports
+254,title 254,science fiction|adventure
+255,title 255,mystery|adventure
+256,title 256,thriller|sports
+257,title 257,musical
+258,title 258,drama|science fiction|fantasy
+259,title 259,thriller|horror|drama
+260,title 260,fantasy
+261,title 261,drama
+262,title 262,comedy|fantasy|mystery
+263,title 263,horror|thriller
+264,title 264,fantasy|sports|romance
+265,title 265,comedy|western
+266,title 266,musical|mystery|thriller
+267,title 267,romance
+268,title 268,western
+269,title 269,romance
+270,title 270,horror|adventure|musical
+271,title 271,fantasy|thriller|western
+272,title 272,horror|fantasy|thriller
+273,title 273,mystery|romance|horror
+274,title 274,mystery|thriller|western
+275,title 275,science fiction
+276,title 276,adventure|horror|science fiction
+277,title 277,action
+278,title 278,science fiction|drama|adventure
+279,title 279,thriller|adventure
+280,title 280,horror|sports
+281,title 281,comedy|adventure|mystery
+282,title 282,action|horror|romance
+283,title 283,mystery|action|sports
+284,title 284,adventure|musical
+285,title 285,romance|science fiction|fantasy
+286,title 286,romance
+287,title 287,fantasy|sports
+288,title 288,western|horror|adventure
+289,title 289,drama|sports
+290,title 290,comedy|sports
+291,title 291,science fiction
+292,title 292,science fiction|romance
+293,title 293,musical|romance|action
+294,title 294,action
+295,title 295,thriller
+296,title 296,musical
+297,title 297,sports|action
+298,title 298,musical
+299,title 299,horror|musical
+300,title 300,sports|drama
+301,title 301,romance
+302,title 302,adventure
+303,title 303,fantasy|romance|horror
+304,title 304,science fiction|sports|action
+305,title 305,science fiction|adventure|action
+306,title 306,science fiction|musical
+307,title 307,romance|mystery
+308,title 308,fantasy|thriller
+309,title 309,fantasy|science fiction|thriller
+310,title 310,action|musical|comedy
+311,title 311,fantasy
+312,title 312,sports|romance|western
+313,title 313,western|romance|thriller
+314,title 314,romance
+315,title 315,science fiction
+316,title 316,romance
+317,title 317,musical
+318,title 318,comedy|romance|drama
+319,title 319,action
+320,title 320,musical|comedy
+321,title 321,mystery|sports|thriller
+322,title 322,western
+323,title 323,sports|mystery
+324,title 324,science fiction|comedy
+325,title 325,romance
+326,title 326,thriller|mystery
+327,title 327,sports|thriller
+328,title 328,horror|mystery|drama
+329,title 329,comedy
+330,title 330,romance|thriller|fantasy
+331,title 331,action
+332,title 332,western|mystery
+333,title 333,fantasy|action|adventure
+334,title 334,sports|romance
+335,title 335,adventure|romance|western
+336,title 336,drama|western|thriller
+337,title 337,horror
+338,title 338,romance
+339,title 339,thriller|comedy|fantasy
+340,title 340,action
+341,title 341,comedy
+342,title 342,adventure
+343,title 343,musical|western
+344,title 344,romance|drama
+345,title 345,romance
+346,title 346,romance|musical|sports
+347,title 347,horror
+348,title 348,romance
+349,title 349,western|horror|fantasy
+350,title 350,thriller|action
+351,title 351,horror
+352,title 352,romance
+353,title 353,thriller
+354,title 354,comedy
+355,title 355,western|musical
+356,title 356,romance|sports|thriller
+357,title 357,musical|romance
+358,title 358,adventure|romance|action
+359,title 359,sports|mystery|thriller
+360,title 360,drama|adventure|science fiction
+361,title 361,romance|drama|thriller
+362,title 362,horror
+363,title 363,western|drama|horror
+364,title 364,western|drama
+365,title 365,sports
+366,title 366,horror|sports|romance
+367,title 367,western
+368,title 368,horror|sports
+369,title 369,sports
+370,title 370,adventure|science fiction
+371,title 371,horror|thriller
+372,title 372,science fiction
+373,title 373,musical|sports
+374,title 374,horror|adventure
+375,title 375,drama|sports|thriller
+376,title 376,romance|science fiction
+377,title 377,mystery
+378,title 378,action|drama
+379,title 379,action|sports|adventure
+380,title 380,fantasy
+381,title 381,science fiction|western|sports
+382,title 382,sports|drama|fantasy
+383,title 383,action|comedy
+384,title 384,sports|musical
+385,title 385,thriller|drama
+386,title 386,western|fantasy|comedy
+387,title 387,action|drama
+388,title 388,adventure|thriller|fantasy
+389,title 389,sports
+390,title 390,horror
+391,title 391,sports
+392,title 392,romance|action|mystery
+393,title 393,sports|mystery
+394,title 394,sports
+395,title 395,comedy|adventure|fantasy
+396,title 396,action|musical|comedy
+397,title 397,romance
+398,title 398,science fiction|action
+399,title 399,drama|romance
+400,title 400,romance|western|musical
+401,title 401,sports|comedy|mystery
+402,title 402,sports|science fiction|musical
+403,title 403,mystery|action|adventure
+404,title 404,science fiction|fantasy
+405,title 405,fantasy|western|adventure
+406,title 406,mystery
+407,title 407,drama|science fiction
+408,title 408,sports|musical|adventure
+409,title 409,horror|mystery
+410,title 410,sports
+411,title 411,comedy
+412,title 412,western|science fiction|thriller
+413,title 413,thriller|action
+414,title 414,drama|musical
+415,title 415,adventure
+416,title 416,comedy|thriller|sports
+417,title 417,science fiction|western
+418,title 418,adventure|horror|thriller
+419,title 419,horror|action
+420,title 420,science fiction|horror
+421,title 421,mystery|sports|action
+422,title 422,western
+423,title 423,fantasy
+424,title 424,horror|romance|fantasy
+425,title 425,thriller|adventure|mystery
+426,title 426,musical|thriller|sports
+427,title 427,musical
+428,title 428,drama|mystery
+429,title 429,mystery|drama
+430,title 430,science fiction|mystery
+431,title 431,comedy|fantasy
+432,title 432,adventure|western|horror
+433,title 433,comedy
+434,title 434,thriller
+435,title 435,adventure|western|horror
+436,title 436,sports
+437,title 437,comedy|fantasy|sports
+438,title 438,romance|sports|mystery
+439,title 439,drama|sports|romance
+440,title 440,action|comedy|thriller
+441,title 441,science fiction|western
+442,title 442,horror|adventure
+443,title 443,romance|sports|mystery
+444,title 444,adventure
+445,title 445,thriller|fantasy
+446,title 446,western|science fiction
+447,title 447,romance|musical|mystery
+448,title 448,horror
+449,title 449,romance|drama
+450,title 450,horror|musical|drama
+451,title 451,musical|sports|romance
+452,title 452,western
+453,title 453,fantasy|horror
+454,title 454,western
+455,title 455,horror|musical
+456,title 456,horror|comedy|mystery
+457,title 457,horror
+458,title 458,drama|romance|sports
+459,title 459,western
+460,title 460,musical|comedy
+461,title 461,romance
+462,title 462,musical|adventure
+463,title 463,fantasy
+464,title 464,mystery
+465,title 465,science fiction|action|musical
+466,title 466,comedy|romance
+467,title 467,mystery|romance
+468,title 468,science fiction|thriller|sports
+469,title 469,comedy
+470,title 470,horror
+471,title 471,horror|adventure|action
+472,title 472,thriller|adventure
+473,title 473,romance
+474,title 474,thriller|sports|science fiction
+475,title 475,musical|horror|romance
+476,title 476,adventure|horror|science fiction
+477,title 477,horror
+478,title 478,sports
+479,title 479,western
+480,title 480,science fiction|western|fantasy
+481,title 481,thriller|horror|sports
+482,title 482,romance|horror|adventure
+483,title 483,comedy
+484,title 484,drama
+485,title 485,sports|thriller
+486,title 486,fantasy
+487,title 487,comedy|adventure|sports
+488,title 488,horror|musical
+489,title 489,action|adventure|western
+490,title 490,musical|comedy|adventure
+491,title 491,thriller|sports|western
+492,title 492,romance|drama
+493,title 493,science fiction|fantasy|sports
+494,title 494,fantasy|science fiction
+495,title 495,horror
+496,title 496,action|horror
+497,title 497,drama|adventure
+498,title 498,fantasy|thriller
+499,title 499,thriller|horror
+500,title 500,horror
+501,title 501,western|drama|musical
+502,title 502,fantasy|comedy
+503,title 503,fantasy|thriller|action
+504,title 504,western
+505,title 505,fantasy
+506,title 506,mystery|comedy
+507,title 507,drama|romance|comedy
+508,title 508,action
+509,title 509,mystery|comedy
+510,title 510,horror
+511,title 511,comedy
+512,title 512,science fiction
+513,title 513,western
+514,title 514,drama|comedy
+515,title 515,drama|comedy
+516,title 516,adventure|action|thriller
+517,title 517,thriller|sports|musical
+518,title 518,action|western
+519,title 519,sports
+520,title 520,fantasy|western|drama
+521,title 521,mystery|horror|action
+522,title 522,sports|horror
+523,title 523,drama
+524,title 524,adventure|mystery
+525,title 525,thriller|sports|musical
+526,title 526,thriller
+527,title 527,western|comedy
+528,title 528,comedy
+529,title 529,western|horror
+530,title 530,action|musical|science fiction
+531,title 531,western|action
+532,title 532,sports|action
+533,title 533,adventure|thriller|musical
+534,title 534,horror|action|fantasy
+535,title 535,sports|fantasy
+536,title 536,science fiction|sports
+537,title 537,adventure|musical
+538,title 538,science fiction
+539,title 539,science fiction|horror
+540,title 540,science fiction|comedy
+541,title 541,sports|thriller|musical
+542,title 542,thriller
+543,title 543,thriller|musical
+544,title 544,science fiction|comedy|action
+545,title 545,western
+546,title 546,action|science fiction|horror
+547,title 547,adventure
+548,title 548,horror|adventure
+549,title 549,drama|romance|western
+550,title 550,science fiction|thriller
+551,title 551,action|fantasy|comedy
+552,title 552,sports|fantasy|thriller
+553,title 553,action|science fiction
+554,title 554,mystery
+555,title 555,western|fantasy
+556,title 556,action|western
+557,title 557,horror|mystery|action
+558,title 558,western
+559,title 559,musical|romance|drama
+560,title 560,romance
+561,title 561,mystery|romance|science fiction
+562,title 562,drama|comedy
+563,title 563,western
+564,title 564,adventure|thriller|comedy
+565,title 565,horror|drama|thriller
+566,title 566,action|fantasy|adventure
+567,title 567,sports|science fiction
+568,title 568,science fiction
+569,title 569,musical|science fiction
+570,title 570,western|thriller|drama
+571,title 571,comedy
+572,title 572,drama|horror|thriller
+573,title 573,sports|horror
+574,title 574,sports|western
+575,title 575,adventure|romance
+576,title 576,mystery
+577,title 577,thriller|science fiction|adventure
+578,title 578,romance
+579,title 579,horror|western|sports
+580,title 580,horror|romance|drama
+581,title 581,adventure
+582,title 582,drama|mystery|fantasy
+583,title 583,fantasy|comedy
+584,title 584,romance|science fiction
+585,title 585,drama
+586,title 586,musical|adventure
+587,title 587,comedy
+588,title 588,action|musical
+589,title 589,action
+590,title 590,horror|science fiction|thriller
+591,title 591,musical|drama
+592,title 592,drama|sports
+593,title 593,science fiction
+594,title 594,adventure|western|mystery
+595,title 595,horror|adventure|romance
+596,title 596,adventure
+597,title 597,science fiction
+598,title 598,mystery
+599,title 599,sports|musical|science fiction
+600,title 600,adventure
+601,title 601,fantasy
+602,title 602,western|adventure
+603,title 603,thriller|adventure|romance
+604,title 604,science fiction|fantasy|mystery
+605,title 605,thriller
+606,title 606,horror|thriller|action
+607,title 607,fantasy|science fiction|musical
+608,title 608,horror|comedy|fantasy
+609,title 609,comedy
+610,title 610,fantasy|comedy
+611,title 611,comedy|horror|thriller
+612,title 612,mystery
+613,title 613,sports|mystery|western
+614,title 614,sports|horror|western
+615,title 615,horror|western|science fiction
+616,title 616,science fiction|comedy|sports
+617,title 617,sports
+618,title 618,horror|romance
+619,title 619,western|drama
+620,title 620,action|thriller
+621,title 621,sports|mystery
+622,title 622,drama
+623,title 623,romance|thriller
+624,title 624,thriller|western|musical
+625,title 625,adventure|sports|western
+626,title 626,mystery|musical|drama
+627,title 627,mystery|western
+628,title 628,fantasy|science fiction|western
+629,title 629,action|comedy
+630,title 630,sports
+631,title 631,mystery
+632,title 632,musical|thriller
+633,title 633,horror|comedy|drama
+634,title 634,musical
+635,title 635,sports|action
+636,title 636,western|comedy|science fiction
+637,title 637,romance|adventure
+638,title 638,mystery|science fiction
+639,title 639,western|drama|horror
+640,title 640,science fiction|thriller|mystery
+641,title 641,action
+642,title 642,adventure|romance|musical
+643,title 643,horror|western|comedy
+644,title 644,thriller|western
+645,title 645,comedy|science fiction|romance
+646,title 646,musical|horror|adventure
+647,title 647,western
+648,title 648,thriller|romance|action
+649,title 649,horror|science fiction
+650,title 650,horror
+651,title 651,musical|horror|action
+652,title 652,horror
+653,title 653,adventure|action|science fiction
+654,title 654,science fiction
+655,title 655,comedy|fantasy
+656,title 656,mystery|sports
+657,title 657,fantasy
+658,title 658,comedy
+659,title 659,romance
+660,title 660,action
+661,title 661,musical|action|drama
+662,title 662,science fiction|western|comedy
+663,title 663,adventure|comedy|musical
+664,title 664,musical
+665,title 665,mystery|comedy|sports
+666,title 666,adventure
+667,title 667,horror|musical
+668,title 668,sports
+669,title 669,romance|musical|sports
+670,title 670,action
+671,title 671,romance
+672,title 672,fantasy|science fiction
+673,title 673,western|sports|musical
+674,title 674,mystery|adventure
+675,title 675,action|adventure|comedy
+676,title 676,mystery
+677,title 677,comedy|romance|drama
+678,title 678,sports|science fiction|action
+679,title 679,musical
+680,title 680,thriller|romance|mystery
+681,title 681,romance
+682,title 682,action|comedy
+683,title 683,thriller|fantasy
+684,title 684,science fiction|drama
+685,title 685,drama|adventure
+686,title 686,science fiction|fantasy|adventure
+687,title 687,science fiction
+688,title 688,drama
+689,title 689,thriller|musical
+690,title 690,science fiction|comedy|musical
+691,title 691,romance
+692,title 692,musical|comedy
+693,title 693,sports|mystery|western
+694,title 694,thriller
+695,title 695,romance
+696,title 696,comedy
+697,title 697,musical|western|action
+698,title 698,thriller|romance
+699,title 699,romance
+700,title 700,drama
+701,title 701,adventure
+702,title 702,mystery|western|sports
+703,title 703,thriller
+704,title 704,western|action
+705,title 705,horror
+706,title 706,western|fantasy|comedy
+707,title 707,adventure|drama
+708,title 708,science fiction|fantasy|western
+709,title 709,comedy|horror
+710,title 710,thriller|action|science fiction
+711,title 711,action
+712,title 712,action|mystery|musical
+713,title 713,adventure
+714,title 714,drama|horror
+715,title 715,science fiction|romance
+716,title 716,drama|science fiction|thriller
+717,title 717,fantasy|musical
+718,title 718,horror|thriller|western
+719,title 719,mystery|science fiction|comedy
+720,title 720,science fiction
+721,title 721,science fiction|horror|comedy
+722,title 722,sports|musical|mystery
+723,title 723,comedy|mystery|thriller
+724,title 724,mystery|sports|drama
+725,title 725,fantasy|drama
+726,title 726,drama
+727,title 727,romance|action
+728,title 728,action|sports
+729,title 729,drama|horror
+730,title 730,romance
+731,title 731,mystery|drama
+732,title 732,science fiction|romance|thriller
+733,title 733,adventure|mystery
+734,title 734,sports|adventure|science fiction
+735,title 735,sports
+736,title 736,sports|science fiction|action
+737,title 737,mystery|thriller
+738,title 738,adventure|thriller|mystery
+739,title 739,comedy|action|romance
+740,title 740,thriller|mystery
+741,title 741,horror|romance
+742,title 742,sports|western
+743,title 743,adventure|comedy|sports
+744,title 744,sports|drama
+745,title 745,science fiction|western|adventure
+746,title 746,horror|drama
+747,title 747,horror
+748,title 748,adventure|science fiction|action
+749,title 749,horror|comedy|drama
+750,title 750,western
+751,title 751,mystery|sports|drama
+752,title 752,thriller
+753,title 753,mystery
+754,title 754,science fiction|mystery|adventure
+755,title 755,drama|western|comedy
+756,title 756,sports|science fiction|musical
+757,title 757,mystery|thriller
+758,title 758,comedy|action|science fiction
+759,title 759,science fiction|horror
+760,title 760,fantasy|thriller
+761,title 761,musical
+762,title 762,sports
+763,title 763,adventure|action|thriller
+764,title 764,mystery|romance
+765,title 765,sports|fantasy|western
+766,title 766,musical|sports
+767,title 767,thriller
+768,title 768,thriller
+769,title 769,comedy|musical
+770,title 770,thriller|horror
+771,title 771,horror|science fiction
+772,title 772,thriller|action|musical
+773,title 773,romance|comedy
+774,title 774,musical|mystery|horror
+775,title 775,mystery
+776,title 776,action|fantasy
+777,title 777,fantasy
+778,title 778,fantasy
+779,title 779,drama|science fiction
+780,title 780,western|science fiction|sports
+781,title 781,comedy|western|thriller
+782,title 782,romance
+783,title 783,musical|mystery
+784,title 784,action|adventure
+785,title 785,western|thriller
+786,title 786,science fiction
+787,title 787,thriller|sports|musical
+788,title 788,action|science fiction|comedy
+789,title 789,horror|western|comedy
+790,title 790,adventure
+791,title 791,drama|thriller|action
+792,title 792,romance
+793,title 793,comedy
+794,title 794,musical|fantasy
+795,title 795,action|romance
+796,title 796,romance
+797,title 797,horror
+798,title 798,romance|comedy|horror
+799,title 799,western|action
+800,title 800,action
+801,title 801,comedy|western|musical
+802,title 802,comedy
+803,title 803,western|musical|mystery
+804,title 804,western|drama
+805,title 805,thriller
+806,title 806,horror
+807,title 807,romance|horror|fantasy
+808,title 808,adventure|western|horror
+809,title 809,sports
+810,title 810,action|romance|horror
+811,title 811,sports|fantasy
+812,title 812,adventure|romance|sports
+813,title 813,musical
+814,title 814,comedy
+815,title 815,adventure|sports
+816,title 816,fantasy|science fiction
+817,title 817,comedy|science fiction|musical
+818,title 818,science fiction|adventure|comedy
+819,title 819,action|mystery
+820,title 820,science fiction
+821,title 821,sports
+822,title 822,romance
+823,title 823,fantasy|comedy
+824,title 824,drama
+825,title 825,adventure|western
+826,title 826,fantasy|comedy
+827,title 827,western|musical
+828,title 828,fantasy|comedy
+829,title 829,action|sports
+830,title 830,romance|sports
+831,title 831,thriller
+832,title 832,action|sports
+833,title 833,fantasy
+834,title 834,science fiction|drama|musical
+835,title 835,sports|western
+836,title 836,horror|sports|romance
+837,title 837,drama|thriller|adventure
+838,title 838,romance
+839,title 839,science fiction|adventure|mystery
+840,title 840,adventure
+841,title 841,western
+842,title 842,fantasy|science fiction|action
+843,title 843,thriller|adventure
+844,title 844,sports|action|romance
+845,title 845,horror|western|thriller
+846,title 846,thriller
+847,title 847,science fiction|mystery
+848,title 848,science fiction|comedy|fantasy
+849,title 849,action|adventure|mystery
+850,title 850,drama
+851,title 851,comedy
+852,title 852,science fiction|sports|action
+853,title 853,comedy|western
+854,title 854,comedy|science fiction|western
+855,title 855,comedy|adventure
+856,title 856,musical|romance|western
+857,title 857,action|mystery
+858,title 858,sports|musical|western
+859,title 859,sports|drama
+860,title 860,science fiction|horror
+861,title 861,adventure
+862,title 862,romance|musical|horror
+863,title 863,western
+864,title 864,romance|horror
+865,title 865,western|fantasy|drama
+866,title 866,sports|comedy|action
+867,title 867,musical|western|adventure
+868,title 868,horror
+869,title 869,drama
+870,title 870,musical|thriller|fantasy
+871,title 871,sports
+872,title 872,adventure|comedy
+873,title 873,musical|fantasy
+874,title 874,action|western
+875,title 875,musical|mystery
+876,title 876,musical
+877,title 877,action
+878,title 878,action
+879,title 879,horror|sports
+880,title 880,adventure|science fiction|comedy
+881,title 881,action|science fiction
+882,title 882,science fiction|horror|musical
+883,title 883,mystery|musical|romance
+884,title 884,sports|fantasy|musical
+885,title 885,action|romance
+886,title 886,romance
+887,title 887,musical|fantasy
+888,title 888,musical|sports|science fiction
+889,title 889,science fiction|action
+890,title 890,romance|mystery|thriller
+891,title 891,horror|action|adventure
+892,title 892,science fiction|comedy
+893,title 893,drama|romance
+894,title 894,thriller|science fiction|sports
+895,title 895,romance|musical|sports
+896,title 896,fantasy
+897,title 897,romance|action|mystery
+898,title 898,thriller
+899,title 899,musical|western|fantasy
+900,title 900,drama
+901,title 901,action|fantasy|horror
+902,title 902,drama
+903,title 903,adventure
+904,title 904,musical|sports
+905,title 905,horror
+906,title 906,drama
+907,title 907,comedy|adventure|horror
+908,title 908,sports|horror
+909,title 909,mystery
+910,title 910,science fiction|romance
+911,title 911,drama|thriller|horror
+912,title 912,fantasy|action|drama
+913,title 913,adventure
+914,title 914,drama
+915,title 915,mystery|sports
+916,title 916,musical
+917,title 917,drama|mystery
+918,title 918,western|mystery
+919,title 919,science fiction
+920,title 920,sports|horror
+921,title 921,action|sports|comedy
+922,title 922,sports|romance|fantasy
+923,title 923,science fiction
+924,title 924,musical
+925,title 925,horror|romance
+926,title 926,comedy|drama|science fiction
+927,title 927,western|horror
+928,title 928,comedy
+929,title 929,horror|adventure|musical
+930,title 930,science fiction|thriller|adventure
+931,title 931,thriller|comedy|musical
+932,title 932,science fiction|fantasy
+933,title 933,romance
+934,title 934,fantasy|sports
+935,title 935,science fiction|romance
+936,title 936,musical|western|drama
+937,title 937,horror|science fiction
+938,title 938,fantasy|drama|horror
+939,title 939,sports
+940,title 940,comedy|adventure
+941,title 941,action|musical|romance
+942,title 942,thriller|horror|romance
+943,title 943,western|fantasy
+944,title 944,comedy
+945,title 945,comedy|sports
+946,title 946,western|science fiction|adventure
+947,title 947,action|sports|mystery
+948,title 948,fantasy|mystery|horror
+949,title 949,mystery|thriller|action
+950,title 950,action|musical
+951,title 951,thriller|western
+952,title 952,drama
+953,title 953,action|fantasy|western
+954,title 954,comedy|mystery|science fiction
+955,title 955,sports|thriller|horror
+956,title 956,musical
+957,title 957,sports|thriller|action
+958,title 958,mystery|drama
+959,title 959,comedy|action
+960,title 960,sports|western
+961,title 961,action
+962,title 962,horror|romance
+963,title 963,drama|adventure|romance
+964,title 964,musical
+965,title 965,western
+966,title 966,drama
+967,title 967,science fiction|musical
+968,title 968,action
+969,title 969,thriller
+970,title 970,drama|romance
+971,title 971,comedy|mystery
+972,title 972,musical|horror|adventure
+973,title 973,adventure|sports
+974,title 974,adventure|thriller
+975,title 975,horror|action|comedy
+976,title 976,science fiction|thriller|comedy
+977,title 977,adventure|action|comedy
+978,title 978,fantasy|drama|musical
+979,title 979,sports|horror
+980,title 980,action|adventure|mystery
+981,title 981,fantasy|mystery
+982,title 982,science fiction|comedy
+983,title 983,fantasy|musical
+984,title 984,drama
+985,title 985,adventure|western|drama
+986,title 986,fantasy
+987,title 987,thriller
+988,title 988,drama|sports|western
+989,title 989,musical|drama|fantasy
+990,title 990,drama|adventure|sports
+991,title 991,action
+992,title 992,mystery
+993,title 993,comedy
+994,title 994,romance|fantasy|western
+995,title 995,western|mystery
+996,title 996,science fiction|fantasy|romance
+997,title 997,horror
+998,title 998,fantasy|adventure|romance
+999,title 999,drama|action
+1000,title 1000,musical|comedy|horror
